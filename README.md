@@ -18,10 +18,6 @@ Data has been prepared. Selected characteristics have been visualized using matp
 * matplotlib - version 3.1.1
 * seaborn - version 0.9.0
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## To-do list
 * windsores and waveroses for each moth (matplotlib subplots)
 * wave distribution (Fretcher, Weibull)
